@@ -1,0 +1,10 @@
+# output files
+/ec2start
+/vendor
+
+# hidden files on MacOS
+.DS_Store
+
+# for JetBrains IDE
+/.idea
+
