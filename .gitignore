@@ -1,5 +1,5 @@
 # output files
-/ec2start
+/ec2start*
 /vendor
 
 # hidden files on MacOS
